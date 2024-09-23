@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Shuyi Yang"
 title_separator          : "-"
 name                     : &name "Shuyi Yang"
-description              : "
+description              : 
 url                      : https://shuyiyang1.github.io/ 
 baseurl                  : 
 repository               : "ShuyiYang1/ShuyiYang1.github.io"
