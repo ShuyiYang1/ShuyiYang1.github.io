@@ -21,7 +21,7 @@ My research focuses on biostatistics and genetics, where I develop and apply sta
 
 Publications
 ------
-Wenda Zhang; Zichen Ma; Yen-Yi Ho; Shuyi Yang; Joshua Habiger; Hsin-Hsiung Huang; Yufei Huang. 2024. Multi-omics Integrative Analysis for Incomplete Data Using Weighted p-Value Adjustment Approaches. Journal of Agricultural, Biological and Environmental Statistics. DOI: (10.1007/s13253-024-00603-3)[http://](https://github.com/academicpages/academicpages.github.io)
+Wenda Zhang; Zichen Ma; Yen-Yi Ho; Shuyi Yang; Joshua Habiger; Hsin-Hsiung Huang; Yufei Huang. 2024. Multi-omics Integrative Analysis for Incomplete Data Using Weighted p-Value Adjustment Approaches. Journal of Agricultural, Biological and Environmental Statistics. DOI: [10.1007/s13253-024-00603-3](10.1007/s13253-024-00603-3)
 
 Teaching
 ------
