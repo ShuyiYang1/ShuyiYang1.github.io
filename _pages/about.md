@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shuyi Yang"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,7 +12,9 @@ This is the front page of a website that is powered by the [Academic Pages templ
 Education
 ======
 B.S. in Computer Science(Network Engineering), Jinan University, 2019
+
 M.S. in Data Analytics and Statistics & Information Systems Management, Washington University in Saint Louis, 2021
+
 Ph.D in Statistic, University of South Carolina, 2021-present
 
 Research Interest
