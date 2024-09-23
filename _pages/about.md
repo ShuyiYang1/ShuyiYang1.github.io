@@ -19,10 +19,7 @@ Ph.D in Statistic, University of South Carolina, 2021-present
 
 Research Interest
 ======
-My research focuses on biostatistics and genetics. My work involves developing and applying statistical methods to analyze gene pair co-expression patterns across cell temporal trajectory and spatial scales. 
-
-
-My work utilizes single-cell RNA sequencing (scRNAseq) data to track how gene relationships shift as cells progress through developmental stages or respond to environmental cues. By combining advanced techniques in biostatistics and genetics, I aim to unravel the complexities of cellular behavior and gene regulation, providing insights that are crucial for understanding development, tissue organization, and disease mechanisms.
+My research focuses on biostatistics and genetics, where I develop and apply statistical methods to analyze gene pair co-expression patterns across cell temporal trajectory and spatial scales. My work utilizes single-cell RNA sequencing (scRNAseq) data to track how gene pair relationships shift as cells progress through developmental stages. A significant aspect of my work involves addressing the challenges of analyzing scRNAseq data, including its zero-inflated nature and over-dispersion, to ensure accurate modeling of complex gene regulations. 
 
 Publications
 ------
@@ -44,6 +41,3 @@ Many people use a git client to create files on their local computer and then pu
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
